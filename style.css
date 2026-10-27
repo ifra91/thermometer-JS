@@ -1,0 +1,8 @@
+body {
+    margin: 0;                   /* Removes default browser margins */
+    height: 100vh;               /* Makes the body fill the entire screen height */
+    display: flex;               /* Enables Flexbox layout */
+    justify-content: center;     /* Centers the card horizontally */
+    align-items: center;          /* Centers the card vertically */
+    background-color:rgb(102, 129, 168);   /* Optional: light background to see the card clearly */
+}
